@@ -1,0 +1,1 @@
+from .change_column_type import main as change_column_type

@@ -1,0 +1,1 @@
+from .data_visulization import main as data_visulization

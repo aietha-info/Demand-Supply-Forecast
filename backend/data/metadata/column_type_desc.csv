@@ -1,0 +1,6 @@
+column_name,type
+sepal_length,numerical
+sepal_width,categorical
+petal_length,numerical
+petal_width,categorical
+species,categorical
