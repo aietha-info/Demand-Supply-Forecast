@@ -3,6 +3,8 @@
 # How to Run 
 
 - Clone the repository
+- 
+git clone https://github.com/aietha-info/Demand-Supply-Forecast.git
 
 - Setup Virtual environment
 ```
@@ -18,6 +20,6 @@ $ pip install -r requirements.txt
 ```
 - Run Streamlit
 ```
-$ streamlit run app.py
+$ streamlit run backend/main.py
 ```
 
